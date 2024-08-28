@@ -18,6 +18,7 @@
 		D835A3A02C7CFE7800FF2D3F /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = D835A39F2C7CFE7700FF2D3F /* Order.swift */; };
 		D835A3A22C7CFE8A00FF2D3F /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = D835A3A12C7CFE8A00FF2D3F /* Menu.swift */; };
 		D835A3A42C7CFEAA00FF2D3F /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = D835A3A32C7CFEAA00FF2D3F /* menu.json */; };
+		D835A3A62C7D02E700FF2D3F /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D835A3A52C7D02E700FF2D3F /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		D835A39F2C7CFE7700FF2D3F /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Order.swift; path = ../../../../Downloads/idine/Order.swift; sourceTree = "<group>"; };
 		D835A3A12C7CFE8A00FF2D3F /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Menu.swift; path = ../../../../Downloads/idine/Menu.swift; sourceTree = "<group>"; };
 		D835A3A32C7CFEAA00FF2D3F /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = menu.json; path = ../../../../Downloads/idine/menu.json; sourceTree = "<group>"; };
+		D835A3A52C7D02E700FF2D3F /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				D835A3742C7CFDD300FF2D3F /* ContentView.swift */,
 				D835A3762C7CFDD600FF2D3F /* Assets.xcassets */,
 				D835A39D2C7CFE6100FF2D3F /* Helper.swift */,
+				D835A3A52C7D02E700FF2D3F /* ItemRow.swift */,
 				D835A3A12C7CFE8A00FF2D3F /* Menu.swift */,
 				D835A3A32C7CFEAA00FF2D3F /* menu.json */,
 				D835A39F2C7CFE7700FF2D3F /* Order.swift */,
@@ -275,6 +278,7 @@
 				D835A3752C7CFDD300FF2D3F /* ContentView.swift in Sources */,
 				D835A3732C7CFDD300FF2D3F /* iDineApp.swift in Sources */,
 				D835A3A02C7CFE7800FF2D3F /* Order.swift in Sources */,
+				D835A3A62C7D02E700FF2D3F /* ItemRow.swift in Sources */,
 				D835A39E2C7CFE6100FF2D3F /* Helper.swift in Sources */,
 				D835A3A22C7CFE8A00FF2D3F /* Menu.swift in Sources */,
 			);
